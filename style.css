@@ -1,3 +1,19 @@
-h1, h2 {
+h1, h2, p {
   font-family: Lato;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  color: darkcyan;
 }
